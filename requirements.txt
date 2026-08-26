@@ -1,9 +1,0 @@
-CSV data (150 flowers data) (Setosa _ versciolor - viginca)
-Features + Target (Lables) Specices
-Train / Test Split
-Alogortihum random forest
-Streamlit input
-prediction
-run project on local
-deploy on Github
-Diploy on live envoirnment
